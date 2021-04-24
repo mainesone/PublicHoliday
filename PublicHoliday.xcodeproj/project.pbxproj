@@ -16,7 +16,6 @@
 		C1BEF0B22632F9AB0037DE64 /* PublicCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BEF0B12632F9AB0037DE64 /* PublicCell.swift */; };
 		C1BEF0BC263306890037DE64 /* Holiday.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BEF0BB263306890037DE64 /* Holiday.swift */; };
 		C1BEF0C02633107E0037DE64 /* HolidayNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BEF0BF2633107E0037DE64 /* HolidayNetworkManager.swift */; };
-		C1BEF0C826337EA80037DE64 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BEF0C726337EA80037DE64 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		C1BEF0B12632F9AB0037DE64 /* PublicCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublicCell.swift; sourceTree = "<group>"; };
 		C1BEF0BB263306890037DE64 /* Holiday.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Holiday.swift; sourceTree = "<group>"; };
 		C1BEF0BF2633107E0037DE64 /* HolidayNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolidayNetworkManager.swift; sourceTree = "<group>"; };
-		C1BEF0C726337EA80037DE64 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +72,6 @@
 				C1BEF0992632EAC50037DE64 /* SceneDelegate.swift */,
 				C1BEF0A22632EAC60037DE64 /* LaunchScreen.storyboard */,
 				C1BEF0A52632EAC60037DE64 /* Info.plist */,
-				C1BEF0C726337EA80037DE64 /* Constants.swift */,
 			);
 			path = PublicHoliday;
 			sourceTree = "<group>";
@@ -193,7 +190,6 @@
 				C1BEF0BC263306890037DE64 /* Holiday.swift in Sources */,
 				C1BEF0C02633107E0037DE64 /* HolidayNetworkManager.swift in Sources */,
 				C1BEF0AD2632EB820037DE64 /* PublicHolidayController.swift in Sources */,
-				C1BEF0C826337EA80037DE64 /* Constants.swift in Sources */,
 				C1BEF0982632EAC50037DE64 /* AppDelegate.swift in Sources */,
 				C1BEF09A2632EAC50037DE64 /* SceneDelegate.swift in Sources */,
 			);
