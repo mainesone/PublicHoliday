@@ -16,6 +16,7 @@
 		C1BEF0B22632F9AB0037DE64 /* PublicCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BEF0B12632F9AB0037DE64 /* PublicCell.swift */; };
 		C1BEF0BC263306890037DE64 /* Holiday.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BEF0BB263306890037DE64 /* Holiday.swift */; };
 		C1BEF0C02633107E0037DE64 /* HolidayNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BEF0BF2633107E0037DE64 /* HolidayNetworkManager.swift */; };
+		C1BEF0D62634A7F30037DE64 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BEF0D52634A7F30037DE64 /* Utility.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		C1BEF0B12632F9AB0037DE64 /* PublicCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublicCell.swift; sourceTree = "<group>"; };
 		C1BEF0BB263306890037DE64 /* Holiday.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Holiday.swift; sourceTree = "<group>"; };
 		C1BEF0BF2633107E0037DE64 /* HolidayNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolidayNetworkManager.swift; sourceTree = "<group>"; };
+		C1BEF0D52634A7F30037DE64 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				C1BEF0C5263356FD0037DE64 /* View */,
 				C1BEF0B82632FEAC0037DE64 /* Controller */,
 				C1BEF09D2632EAC50037DE64 /* Main.storyboard */,
+				C1BEF0D52634A7F30037DE64 /* Utility.swift */,
 				C1BEF0A02632EAC60037DE64 /* Assets.xcassets */,
 				C1BEF0972632EAC50037DE64 /* AppDelegate.swift */,
 				C1BEF0992632EAC50037DE64 /* SceneDelegate.swift */,
@@ -186,6 +189,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1BEF0D62634A7F30037DE64 /* Utility.swift in Sources */,
 				C1BEF0B22632F9AB0037DE64 /* PublicCell.swift in Sources */,
 				C1BEF0BC263306890037DE64 /* Holiday.swift in Sources */,
 				C1BEF0C02633107E0037DE64 /* HolidayNetworkManager.swift in Sources */,
